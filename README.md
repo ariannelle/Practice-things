@@ -1,2 +1,2 @@
 # Practice-things
-Some beginner stuff to practice
+Some beginner stuff I'm working on as I learn
